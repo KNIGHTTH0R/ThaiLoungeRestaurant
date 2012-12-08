@@ -1,0 +1,132 @@
+body{
+	background-color:black;
+	font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+}
+
+#nav ul {
+  list-style:none;
+  display:inline;
+  margin:0px;
+  padding:0px;
+}
+#nav li {
+  display:inline;
+  line-height:1.8em;
+  padding:10px;
+}
+
+#nav li  a{
+  color:white;
+  text-decoration:none;
+ }
+
+.nav{float:left; text-align:left;}
+.container{width:1024px;margin:0 auto;text-align:center;}
+.wrap { position:relative; margin:0 auto; width:960px;}
+
+.menuNavigation a{  color:white;  text-decoration:none; list-style:none;}
+
+#tableHeader{
+	background-color:black;
+}
+
+#h1NoMargine
+{
+	border-bottom-style:none;
+	margin:0;
+	text-align:center;
+	color:white;
+	font-family: "Brush Script MT", cursive;
+	/*font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;*/
+	font-weight:100;
+}
+
+#thairepublicheader
+{
+font-family: "Brush Script MT", cursive;
+color:white;
+font-weight:2;
+font-size:x-large;
+}
+
+#leftColumn{
+	border-right-style:solid;
+	background-color:#FFD700;
+	height:290px;
+	width:200px;
+	float:left;
+}
+
+#leftColumnMenu{
+	border-right-style:solid;
+	border-color:white;
+	background-color:black;
+	height:600px;
+	width:200px;
+	float:left;
+	margin-left:5px;
+	color:#909090;
+	border-width:1px;
+}
+
+#rightColumn{
+	background-color:black;
+	height:400px;
+	width:450px;
+	float:left;
+	color:#909090;
+	margin-left:12px;
+	margin-top:14px;
+}
+
+#rightColumnContact{
+	background-color:black;
+	height:400px;
+	width:450px;
+	float:center;
+	color:#909090;
+	margin-left:12px;
+	margin-top:14px;
+}
+
+#centerColumn{
+	height:100%;
+	width:100%;
+	float:left;
+	
+}
+
+#imageTableContainer{
+	width:800px;
+	height:300px;
+	border-style:solid;
+	border-color:white;
+	margin:auto;
+	border-width:1px;
+}
+
+#menuContainer{
+	width:800px;
+	height:700px;
+	border-style:solid;
+	border-color:white;
+	margin:auto;
+	border-width:1px;
+}
+
+#bottom{
+	clear:both;
+}
+
+#contact{
+	text-align: center;
+	color: white;
+}
+
+#paymentblock{
+	text-align: center;
+}
+
+#special{
+	text-align: center;
+}

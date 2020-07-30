@@ -9,6 +9,7 @@ Restart Apache: sudo apachectl restart
 
 My SQL
 1. Login to myql: mysql -u root -p
+2. mysql installation: /usr/local
 
 
 Find php.ini location

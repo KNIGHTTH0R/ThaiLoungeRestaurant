@@ -6,3 +6,4 @@ Apache and PHP on MAC
 Example: DirectoryIndex index.html index.php
 4. Make sure php load module is not commented out.
 Example: LoadModule php7_module libexec/apache2/libphp7.so
+Restart Apache: sudo apachectl restart

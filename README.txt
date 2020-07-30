@@ -15,4 +15,5 @@ My SQL
 Find php.ini location
 1. Create a php file.
 2. Add: <?php phpinfo(); ?>
+3. Add SQL connection PDO: pdo_mysql.default_socket=/tmp/mysql.sock
 3. Restart Apache
